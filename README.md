@@ -1,4 +1,4 @@
-# 💻 DevPilot AI
+# 🧑‍💻 DevPilot AI
 
 <div align="center">
 
@@ -194,34 +194,16 @@ Bug Investigation (if needed)
 
 # 📂 Project Structure
 
-> 🚧 This section will continue to evolve as the project grows.
-
 ```text
 DevPilot-AI/
 │
-├── notebooks/
-│   └── Devpilot AI.ipynb
-│
-├── diagrams/
-│   └── architecture.mmd
-│
-├── docs/
-│
-├── workspace/
-│
-├── tests/
-│
-├── outputs/
-│
-├── logs/
-│
-├── memory/
-│
-├── assets/
-│
-├── README.md
-│
-└── requirements.txt
+├── Devpilot AI.ipynb          # Main OpenAI Agents SDK implementation
+├── Devpilot AI.pdf            # Project presentation (PDF)
+├── Devpilot AI.pptx           # Project presentation (PowerPoint)
+├── LICENSE                    # MIT License
+├── README.md                  # Project overview and setup guide
+├── architecture.png           # Multi-agent architecture diagram
+└── documentation.md           # Additional project documentation
 ```
 
 ---
